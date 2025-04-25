@@ -17,3 +17,27 @@ Elements asked for the assignment are:
 * Continuous integration tool
 * Containers
 * [RSpec](https://rspec.info)
+
+### The Rails Bit
+
+Before making a fancy build system, I'll need to set up some code and a test.
+
+#### Research
+
+##### Folder Structures?
+
+To avoid haphazardly dumping code all over the place, I first check for
+recommended structures or folder layouts for a Rails project.
+
+I prompted Github Copilot for example folder layouts, and came across
+[Mastodon (social media)](https://github.com/mastodon/mastodon)'s repository
+that seems to have the same folder structure as what the AI talked about
+when I asked to just give me examples of Rails project structures.
+
+The RSpec project folder structure recommendation is right on their site:
+
+* <https://rspec.info/features/6-0/rspec-rails/directory-structure/>
+
+The general Rails project structure is on Rails's site
+
+* <https://guides.rubyonrails.org/getting_started.html#directory-structure>

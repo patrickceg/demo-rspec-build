@@ -41,3 +41,6 @@ The RSpec project folder structure recommendation is right on their site:
 The general Rails project structure is on Rails's site
 
 * <https://guides.rubyonrails.org/getting_started.html#directory-structure>
+
+The above getting started with Rails guide also mentions that structure is made
+for you by following through the guide, so I'll do that.

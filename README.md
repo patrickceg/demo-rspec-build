@@ -2,6 +2,14 @@
 
 This repository is for a little build system I am using for an assignment.
 
+## Status
+
+I'm going to try different experiments in Git branches, basically with a
+[feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow),
+merging anything that I think is stable into main
+(so I can always go back to main if I need something that at least works enough as a starting point
+for a new experiment), never directly working from main.
+
 ## Outline
 
 This section plans out what to build.

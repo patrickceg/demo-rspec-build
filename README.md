@@ -30,7 +30,7 @@ Elements asked for the assignment are:
 
 Before making a fancy build system, I'll need to set up some code and a test.
 
-#### Research
+#### Rails Research
 
 ##### Folder Structures?
 
@@ -52,3 +52,10 @@ The general Rails project structure is on Rails's site
 
 The above getting started with Rails guide also mentions that structure is made
 for you by following through the guide, so I'll do that.
+
+### The RSpec Bit
+
+Following the official RSpec for rails doc to install
+
+* <https://rspec.info/documentation/8.0/rspec-rails/>
+
